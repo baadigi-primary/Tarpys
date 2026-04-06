@@ -1,0 +1,262 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - navigation [ref=e3]:
+    - link "Open toolbar Accessibility Tools" [ref=e5] [cursor=pointer]:
+      - /url: javascript:void(0);
+      - generic [ref=e6]: Open toolbar
+      - img "Accessibility Tools" [ref=e7]
+    - generic [ref=e10]:
+      - paragraph [ref=e11]: Accessibility Tools
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - link "Increase Text Increase Text" [ref=e14] [cursor=pointer]:
+            - /url: "#"
+            - img "Increase Text" [ref=e16]
+            - text: Increase Text
+        - listitem [ref=e18]:
+          - link "Decrease Text Decrease Text" [ref=e19] [cursor=pointer]:
+            - /url: "#"
+            - img "Decrease Text" [ref=e21]
+            - text: Decrease Text
+        - listitem [ref=e23]:
+          - link "Grayscale Grayscale" [ref=e24] [cursor=pointer]:
+            - /url: "#"
+            - img "Grayscale" [ref=e26]
+            - text: Grayscale
+        - listitem [ref=e28]:
+          - link "High Contrast High Contrast" [ref=e29] [cursor=pointer]:
+            - /url: "#"
+            - img "High Contrast" [ref=e31]
+            - text: High Contrast
+        - listitem [ref=e33]:
+          - link "Negative Contrast Negative Contrast" [ref=e34] [cursor=pointer]:
+            - /url: "#"
+            - img "Negative Contrast" [ref=e36]
+            - text: Negative Contrast
+        - listitem [ref=e38]:
+          - link "Light Background Light Background" [ref=e39] [cursor=pointer]:
+            - /url: "#"
+            - img "Light Background" [ref=e41]
+            - text: Light Background
+        - listitem [ref=e43]:
+          - link "Links Underline Links Underline" [ref=e44] [cursor=pointer]:
+            - /url: "#"
+            - img "Links Underline" [ref=e46]
+            - text: Links Underline
+        - listitem [ref=e48]:
+          - link "Readable Font Readable Font" [ref=e49] [cursor=pointer]:
+            - /url: "#"
+            - img "Readable Font" [ref=e51]
+            - text: Readable Font
+        - listitem [ref=e53]:
+          - link "Reset Reset" [ref=e54] [cursor=pointer]:
+            - /url: "#"
+            - img "Reset" [ref=e56]
+            - text: Reset
+      - list [ref=e58]:
+        - listitem [ref=e59]:
+          - link "Feedback Feedback" [ref=e60] [cursor=pointer]:
+            - /url: mailto:PR@CoastalRootsHospitality.com
+            - img "Feedback" [ref=e62]
+            - text: Feedback
+  - generic [ref=e64]:
+    - generic [ref=e67]:
+      - link "Tarpy's Monterey CA" [ref=e70] [cursor=pointer]:
+        - /url: https://www.tarpys.com
+        - img "Tarpy's Monterey CA" [ref=e71]
+      - navigation [ref=e73]:
+        - heading "Primary Navigation" [level=2] [ref=e74]
+        - list [ref=e75]:
+          - listitem [ref=e76]:
+            - link "Home" [ref=e77] [cursor=pointer]:
+              - /url: https://www.tarpys.com
+          - listitem [ref=e78]:
+            - link "Reservations" [ref=e79] [cursor=pointer]:
+              - /url: https://www.tarpys.com/reservations/
+          - listitem [ref=e80]:
+            - link "Menus" [ref=e81] [cursor=pointer]:
+              - /url: https://www.tarpys.com/menus/
+          - listitem [ref=e82]:
+            - link "Private Parties" [ref=e83] [cursor=pointer]:
+              - /url: https://www.tarpys.com/parties-are-us/
+          - listitem [ref=e84]:
+            - link "Catering" [ref=e85] [cursor=pointer]:
+              - /url: https://www.tarpys.com/parties-catering/
+          - listitem [ref=e86]:
+            - link "News & Events" [ref=e87] [cursor=pointer]:
+              - /url: https://www.tarpys.com/news-and-events/
+          - listitem [ref=e88]:
+            - link "Rewards & Gift Cards" [ref=e89] [cursor=pointer]:
+              - /url: https://www.tarpys.com/rewards-and-gift-cards/
+          - listitem [ref=e90]:
+            - link "Contact" [ref=e91] [cursor=pointer]:
+              - /url: https://www.tarpys.com/contact/
+          - listitem [ref=e92]:
+            - link "Careers" [ref=e93] [cursor=pointer]:
+              - /url: https://www.tarpys.com/careers/
+    - banner [ref=e94]:
+      - img "Home Page" [ref=e96]
+      - generic [ref=e98]:
+        - heading "Tarpy's" [level=2] [ref=e99]
+        - generic [ref=e100]:
+          - generic [ref=e104]: ✻
+          - heading "Best Monterey Steakhouse" [level=2] [ref=e107]
+    - article [ref=e108]:
+      - generic [ref=e112]:
+        - paragraph [ref=e114]:
+          - img "Stunning Backdrop Steakhouse Dinner in Monterey CA" [ref=e115]
+        - generic [ref=e116]:
+          - generic [ref=e117]:
+            - heading "Stunning Backdrop" [level=2] [ref=e118]
+            - heading "Dinner in Monterey" [level=2] [ref=e119]
+          - paragraph [ref=e120]
+          - paragraph [ref=e121]:
+            - img "icon" [ref=e122]
+          - paragraph [ref=e123]: While others may try to imitate, no one can duplicate Tarpy’s. Our iconic Monterey steakhouse offers hearty portions of gourmet fare, served on rustic stone patios surrounded by lush gardens. From tender ribs and fresh seafood to wild game and our famous meatloaf, every dish is a handcrafted classic. Explore our menu and discover why Tarpy’s is the go-to spot for an unforgettable lunch or dinner in Monterey.
+          - paragraph [ref=e124]:
+            - link "View the full menu" [ref=e125] [cursor=pointer]:
+              - /url: menu/
+      - img [ref=e126]
+    - link
+    - banner [ref=e130]:
+      - img "Discover Menu" [ref=e132]
+      - generic [ref=e134]:
+        - heading "Refined Rustic Cuisine" [level=2] [ref=e135]
+        - generic [ref=e136]:
+          - generic [ref=e140]: ✻
+          - paragraph [ref=e143]: RE-ENGINEERED
+    - article [ref=e144]:
+      - generic [ref=e148]:
+        - generic [ref=e149]:
+          - generic [ref=e150]:
+            - heading "History" [level=2] [ref=e151]
+            - heading "And Lots of it" [level=2] [ref=e152]
+          - paragraph [ref=e153]:
+            - img "icon" [ref=e154]
+          - paragraph [ref=e155]: It was the Great Famine of the late 1840s that brought Irishman Matt Tarpy to California, where he became a respected land owner. Known throughout the region as a skilled horseman, an expert tracker—and, as fate would have it, a deadly marksman. Matt Tarpy was hanged at Tapy’s Flats (Site of Tarpy’s Restaurnat. Althopugh Matt Tarpy continued to maintain his innocense he was hanged near his home. Later on the site became known as Tarpy’s Flats and the site for Tarpy’s.
+          - paragraph [ref=e156]:
+            - link "About Us" [ref=e157] [cursor=pointer]:
+              - /url: about-us/
+        - paragraph [ref=e159]:
+          - img "Tarpy's Roadhouse History" [ref=e160]
+    - link
+    - banner [ref=e161]:
+      - img "Final Stage" [ref=e163]
+      - generic [ref=e165]:
+        - heading "Served with a Side of Green" [level=2] [ref=e166]
+        - generic [ref=e167]:
+          - generic [ref=e171]: ✻
+          - heading "." [level=3] [ref=e174]
+    - article [ref=e175]:
+      - generic [ref=e179]:
+        - generic [ref=e180]:
+          - generic [ref=e181]:
+            - heading "BEST MONTEREY RESTAURANT" [level=2] [ref=e182]
+            - heading "Inside and Out" [level=2] [ref=e183]
+          - paragraph [ref=e184]:
+            - img "icon" [ref=e185]
+          - paragraph [ref=e186]: With serene patios, lush gardens, and cozy rustic dining spaces, Tarpy’s offers an award-winning Monterey dining experience, inside and out. Enjoy expertly prepared steaks, fresh seafood, and warm hospitality in a setting as unforgettable as the food itself. Whether you’re joining us for happy hour or planning a special event, Tarpy’s is the perfect destination. Contact us for private party catering in Monterey, CA, or reserve your table today.
+          - paragraph [ref=e187]:
+            - link "MAKE A RESERVATION" [ref=e188] [cursor=pointer]:
+              - /url: reservations/
+          - paragraph [ref=e189]:
+            - link "Virtual Tour" [ref=e190] [cursor=pointer]:
+              - /url: virtual-tour/
+        - generic [ref=e191]:
+          - paragraph
+          - generic [ref=e192]:
+            - paragraph [ref=e194]:
+              - img "Best-of-winner_24_800x800 | Tarpy's Monterey CA" [ref=e195]
+            - paragraph
+        - paragraph [ref=e196]
+        - paragraph [ref=e197]
+        - paragraph [ref=e198]
+        - paragraph [ref=e199]
+        - paragraph [ref=e200]
+    - contentinfo [ref=e201]:
+      - complementary [ref=e202]:
+        - generic [ref=e203]:
+          - complementary [ref=e205]:
+            - generic [ref=e207]:
+              - paragraph [ref=e208]:
+                - text: TARPY'S |
+                - link "831.647.1444" [ref=e209] [cursor=pointer]:
+                  - /url: tel:+18316471444
+                - text: "| 2999 Monterey Salinas Hwy, Monterey, CA 93940"
+              - generic [ref=e211]:
+                - paragraph [ref=e212]: "Monday – Thursday: 11:30 am – 8:00 pm"
+                - paragraph [ref=e213]: "Friday & Saturday: 11:30 am – 9:00 pm"
+                - paragraph [ref=e214]: "Sunday: 11:30 am – 8:00 pm"
+                - paragraph [ref=e215]: Tarpy's is proud to be part of the Coastal Roots Hospitality family.
+                - paragraph [ref=e216]: "Be sure to explore our other restaurants:"
+                - paragraph [ref=e217]:
+                  - link "Rio Grill" [ref=e218] [cursor=pointer]:
+                    - /url: https://www.riogrill.com/
+                  - text: "|"
+                  - link "Montrio" [ref=e219] [cursor=pointer]:
+                    - /url: https://www.montrio.com/
+          - generic [ref=e220]:
+            - generic [ref=e221]:
+              - paragraph [ref=e222]: Follow Along
+              - list [ref=e223]:
+                - listitem [ref=e224]:
+                  - link [ref=e225] [cursor=pointer]:
+                    - /url: https://www.facebook.com/tarpysmonterey
+                    - img [ref=e226]
+                - listitem [ref=e227]:
+                  - link [ref=e228] [cursor=pointer]:
+                    - /url: http://instagram.com/tarpysroadhouse
+                    - img [ref=e229]
+              - link [ref=e231] [cursor=pointer]:
+                - /url: https://www.opentable.com/restaurant/profile/44596/reserve?rid=44596&restref=44596
+                - img [ref=e232]
+            - generic [ref=e233]:
+              - paragraph [ref=e234]: Newsletter
+              - generic [ref=e235]:
+                - generic [ref=e236]:
+                  - status
+                  - list
+                - form "Contact form" [ref=e237]:
+                  - paragraph [ref=e238]:
+                    - textbox "Your email address" [ref=e240] [cursor=pointer]
+                    - button "Signup" [ref=e241] [cursor=pointer]
+              - img "OFR Logo" [ref=e242]
+      - generic [ref=e243]:
+        - img [ref=e244]
+        - link [ref=e246] [cursor=pointer]:
+          - /url: "#"
+        - generic [ref=e250]: © TARPYS 2026
+  - iframe [ref=e258]:
+    - generic [ref=f7e6]:
+      - text: protected by
+      - strong [ref=f7e7]: reCAPTCHA
+  - textbox
+  - generic:
+    - dialog "Reviews badge":
+      - generic [ref=e264] [cursor=pointer]:
+        - region "Source icons carousel" [ref=e268]:
+          - generic [ref=e271]:
+            - img [ref=e276]
+            - img [ref=e290]
+        - generic [ref=e294]: Overall Rating
+        - generic [ref=e295]:
+          - 'img "Rating: 4.6 out of 5" [ref=e296]':
+            - generic [ref=e297]: "4.6"
+            - generic [ref=e298]:
+              - generic [ref=e299]:
+                - img [ref=e301]
+                - img [ref=e305]
+              - generic [ref=e308]:
+                - img [ref=e310]
+                - img [ref=e314]
+              - generic [ref=e317]:
+                - img [ref=e319]
+                - img [ref=e323]
+              - generic [ref=e326]:
+                - img [ref=e328]
+                - img [ref=e332]
+              - generic [ref=e335]:
+                - img [ref=e337]
+                - img [ref=e341]
+          - generic [ref=e344]: 5,765 reviews
